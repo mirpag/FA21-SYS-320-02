@@ -1,4 +1,3 @@
-#TYPE Selected.System.Diagnostics.Process
 "ProcessName","Path"
 "conhost","C:\Windows\system32\conhost.exe"
 "csrss",
@@ -44,13 +43,10 @@
 "svchost","C:\Windows\system32\svchost.exe"
 "System",
 "taskhostw","C:\Windows\system32\taskhostw.exe"
-"TiWorker",
-"TrustedInstaller",
 "VGAuthService",
 "vm3dservice","C:\Windows\System32\vm3dservice.exe"
 "vmtoolsd",
 "vmtoolsd","C:\Program Files\VMware\VMware Tools\vmtoolsd.exe"
 "wininit",
 "winlogon",
-"WmiPrvSE",
 "WmiPrvSE",

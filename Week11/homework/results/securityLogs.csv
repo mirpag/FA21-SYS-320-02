@@ -1,0 +1,35 @@
+"EventID","MachineName","Data","Index","Category","CategoryNumber","EntryType","Message","Source","ReplacementStrings","InstanceId","TimeGenerated","TimeWritten","UserName","Site","Container"
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2194","(0)","0","Information","The Client License Service (ClipSVC) service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:35:47 PM","11/19/2021 2:35:47 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2192","(0)","0","Information","The Software Protection service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:31:18 PM","11/19/2021 2:31:18 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2190","(0)","0","Information","The TCP/IP NetBIOS Helper service entered the running state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:30:47 PM","11/19/2021 2:30:47 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2189","(0)","0","Information","The Software Protection service entered the running state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:30:46 PM","11/19/2021 2:30:46 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2185","(0)","0","Information","The TCP/IP NetBIOS Helper service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:30:40 PM","11/19/2021 2:30:40 PM",,,
+"7042","WIN-NUSQ0F7JDCU","System.Byte[]","2184","(0)","0","Information","The TCP/IP NetBIOS Helper service was successfully sent a stop control.
+
+ The reason specified was: 0x40030011 [Operating System: Network Connectivity (Planned)]
+
+ Comment: None","Service Control Manager","System.String[]","1073748866","11/19/2021 2:30:40 PM","11/19/2021 2:30:40 PM","NT AUTHORITY\SYSTEM",,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2182","(0)","0","Information","The Software Protection service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:28:06 PM","11/19/2021 2:28:06 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2178","(0)","0","Information","The Client License Service (ClipSVC) service entered the running state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:27:11 PM","11/19/2021 2:27:11 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2177","(0)","0","Information","The TCP/IP NetBIOS Helper service entered the running state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:27:11 PM","11/19/2021 2:27:11 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2176","(0)","0","Information","The Software Protection service entered the running state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:27:11 PM","11/19/2021 2:27:11 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2173","(0)","0","Information","The TCP/IP NetBIOS Helper service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:27:04 PM","11/19/2021 2:27:04 PM",,,
+"7042","WIN-NUSQ0F7JDCU","System.Byte[]","2172","(0)","0","Information","The TCP/IP NetBIOS Helper service was successfully sent a stop control.
+
+ The reason specified was: 0x40030011 [Operating System: Network Connectivity (Planned)]
+
+ Comment: None","Service Control Manager","System.String[]","1073748866","11/19/2021 2:27:04 PM","11/19/2021 2:27:04 PM","NT AUTHORITY\SYSTEM",,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2170","(0)","0","Information","The Windows Modules Installer service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:25:36 PM","11/19/2021 2:25:36 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2169","(0)","0","Information","The Windows Update service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:23:53 PM","11/19/2021 2:23:53 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2168","(0)","0","Information","The Windows Modules Installer service entered the running state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:23:34 PM","11/19/2021 2:23:34 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2167","(0)","0","Information","The Windows Modules Installer service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:20:42 PM","11/19/2021 2:20:42 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2166","(0)","0","Information","The Diagnostic System Host service entered the running state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:20:37 PM","11/19/2021 2:20:37 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2165","(0)","0","Information","The Windows Modules Installer service entered the running state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:18:39 PM","11/19/2021 2:18:39 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2164","(0)","0","Information","The Capability Access Manager Service service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:14:36 PM","11/19/2021 2:14:36 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2163","(0)","0","Information","The Software Protection service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:14:13 PM","11/19/2021 2:14:13 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2160","(0)","0","Information","The Software Protection service entered the running state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:13:40 PM","11/19/2021 2:13:40 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2159","(0)","0","Information","The Remote Registry service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:13:34 PM","11/19/2021 2:13:34 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2158","(0)","0","Information","The AppX Deployment Service (AppXSVC) service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:10:54 PM","11/19/2021 2:10:54 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2157","(0)","0","Information","The Delivery Optimization service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:10:54 PM","11/19/2021 2:10:54 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2156","(0)","0","Information","The Software Protection service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:10:21 PM","11/19/2021 2:10:21 PM",,,
+"7036","WIN-NUSQ0F7JDCU","System.Byte[]","2155","(0)","0","Information","The Microsoft Account Sign-in Assistant service entered the stopped state.","Service Control Manager","System.String[]","1073748860","11/19/2021 2:09:51 PM","11/19/2021 2:09:51 PM",,,

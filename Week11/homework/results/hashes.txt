@@ -1,0 +1,9 @@
+@{Algorithm=MD5; Hash=F805BCF041968FFEF81C3896F0B2D811; Path=C:\Users\mpaga\FA21-SYS-320-02\Week11\homework\results\processes.csv}
+@{Algorithm=MD5; Hash=F4A5B13E5672AA4ADE75C9D44FD49506; Path=C:\Users\mpaga\FA21-SYS-320-02\Week11\homework\results\regServices.csv}
+@{Algorithm=MD5; Hash=94DA59D1EFA960632B7992D635C3AC64; Path=C:\Users\mpaga\FA21-SYS-320-02\Week11\homework\results\tcpNetworkSockets.csv}
+@{Algorithm=MD5; Hash=78B8B140E2C48D3DB451810F12C03F33; Path=C:\Users\mpaga\FA21-SYS-320-02\Week11\homework\results\userAcctInfo.txt}
+@{Algorithm=MD5; Hash=4E308519B7CA3881730A993138282230; Path=C:\Users\mpaga\FA21-SYS-320-02\Week11\homework\results\networkAdapterInfo.txt}
+@{Algorithm=MD5; Hash=5437A9AEF46077DA95C975BD118C037B; Path=C:\Users\mpaga\FA21-SYS-320-02\Week11\homework\results\sharePermissions.txt}
+@{Algorithm=MD5; Hash=552850E84176E2C0D2F8FF4C3EA423D9; Path=C:\Users\mpaga\FA21-SYS-320-02\Week11\homework\results\firewallSettings.txt}
+@{Algorithm=MD5; Hash=086AF342807B2BEFEF6BDC2A4539FB01; Path=C:\Users\mpaga\FA21-SYS-320-02\Week11\homework\results\cimInstance.csv}
+@{Algorithm=MD5; Hash=6D94BA96B10C628F15BB0ABD1FF1219D; Path=C:\Users\mpaga\FA21-SYS-320-02\Week11\homework\results\securityLogs.csv}
